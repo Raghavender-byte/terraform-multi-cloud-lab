@@ -1,5 +1,5 @@
 # terraform-multi-cloud-lab
-Implementing Terraform concepts in multicloud environment i.e., both AWS and Azure with real time examples
+Implementing Terraform concepts in multicloud environment i.e., both AWS and Azure with real time examples.
 Here's the updated `README.md` file reflecting the full Terraform multi-cloud lab structure, with clear descriptions for each phase and what’s included:
 
 ---
@@ -13,7 +13,7 @@ This repository is structured to help you learn Terraform from the basics to adv
 ## 🛠 Prerequisites
 
 - Terraform CLI
-- AWS CLI with configured credentials
+- AWS CLI with configured credentials ( 'aws configure')
 - Azure CLI and account login (`az login`)
 - Basic cloud permissions for VM and network resources
 
